@@ -14,7 +14,9 @@ baseurl: '/' #change it according to your repository name
 name: Mariot Tsitoara
 tagline: Full Stack Developer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Find a job where I can work with a lot of Data. I like to experiment with Machine Learning and bots'
+summary: 'Python/JavaScript developer and Data Analyst.<br>
+Expert in Django and NodeJS/AngularJS. Fluent in NoSQL databases.<br>
+I'm looking for a job where I can work with a lot of Data. I like to experiment with Machine Learning and bots'
 
 #sidebar links
 email: mariot.tsitoara@gmail.com
