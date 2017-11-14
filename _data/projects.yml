@@ -1,24 +1,23 @@
 - intro:
-  description: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+  description: "I usually work with Python/Django and JavaScript/NodeJS. AngularJS for the fancy stuff"
 
 - project:
-  title: Velocity
-  link: "#hook"
-  tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  title: Mozika Bot
+  link: "https://www.messenger.com/t/tononkira.bot"
+  tagline: "Get song lyrics by Messenger bot. Uses heroku."
 - project:
-  title: DevStudio
-  link: "#"
-  tagline: "A responsive website template designed to help web developers/designers market their services."
+  title: Mozika Scraper
+  link: "https://github.com/mariot/mozika-scraper"
+  tagline: "Scrap song lyrics with Python and BeautifulSoup."
 - project:
-  title: Tempo
-  link: "#"
-  tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+  title: Hopster Backend
+  link: "https://hopster-backend-test.appspot.com/"
+  tagline: "Use Google App Engine and Datastorage to test hopster's tech stack"
 - project:
-  title: Atom
-  link: "#"
-  tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+  title: Spotify
+  link: "https://github.com/mariot/spotify"
+  tagline: "AngularJS app that uses Spotify's API to search for artists and albums."
 - project:
-  title: Delta
-  link: "#"
-  tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  title: Klif Mozika
+  link: "https://github.com/mariot/Klif-Mozika"
+  tagline: "Firefox OS music app. Based on WebAPIs and web standards"
